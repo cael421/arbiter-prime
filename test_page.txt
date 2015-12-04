@@ -1,0 +1,34 @@
+<h1>Stránka na testovanie formátu</h1>
+[caption id="" align="aligncenter" width="274"]<a href="/wp-admin/images/wordpress-logo.png"><img class="" src="/wp-admin/images/wordpress-logo.png" alt="" width="274" height="63" /></a> WordPress[/caption]
+
+[caption id="" align="alignleft" width="64"]<a href="/wp-admin/images/wordpress-logo.svg"><img class="" src="/wp-admin/images/wordpress-logo.svg" alt="" width="64" height="64" /></a> WordPress[/caption]
+
+[caption id="" align="alignright" width="64"]<a href="/wp-admin/images/wordpress-logo.svg"><img src="/wp-admin/images/wordpress-logo.svg" alt="" width="64" height="64" /></a> WordPress[/caption]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum risus vehicula odio dapibus, in congue mi pretium. Nullam tincidunt ipsum tellus, quis mattis odio elementum sed. Aliquam nec nulla nunc. Cras massa quam, fermentum et rhoncus in, aliquet imperdiet nunc. Sed a ullamcorper lectus. Nullam a arcu ac enim bibendum mattis. Aliquam augue libero, porttitor id pretium sed, lacinia non ex. Etiam a finibus nisi.
+
+Pellentesque turpis leo, maximus vitae iaculis ultrices, gravida at velit. Quisque dapibus nisi risus, at aliquam nulla pretium ac. Proin varius justo ante, et ornare enim efficitur at. Nulla laoreet, justo a malesuada faucibus, dolor est maximus magna, quis sagittis dolor lacus ut tellus. Etiam et diam egestas, egestas justo ac, aliquet dolor. Integer tincidunt, lectus placerat commodo egestas, velit arcu placerat orci, vitae congue augue quam sed dolor. Aliquam consectetur sed nisl et fringilla. Nam eget quam tempor, pharetra lectus eu, fringilla justo. Praesent id lacus bibendum, porttitor nisl et, feugiat metus. Morbi ultricies eu augue non vulputate. Donec congue sagittis nibh et volutpat. Morbi ac vulputate dui, non semper neque. Vestibulum dignissim libero ac augue imperdiet elementum. Proin facilisis nisi non mollis molestie.
+
+<img class="alignleft" src="/wp-admin/images/wordpress-logo.svg" alt="" width="64" height="64" /><img class="alignright" src="/wp-admin/images/wordpress-logo.svg" alt="" width="64" height="64" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum risus vehicula odio dapibus, in congue mi pretium. Nullam tincidunt ipsum tellus, quis mattis odio elementum sed. Aliquam nec nulla nunc. Cras massa quam, fermentum et rhoncus in, aliquet imperdiet nunc. Sed a ullamcorper lectus. Nullam a arcu ac enim bibendum mattis. Aliquam augue libero, porttitor id pretium sed, lacinia non ex. Etiam a finibus nisi.
+<pre>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Cras fermentum risus vehicula odio dapibus, in congue mi pretium</pre>
+<ul>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+</ul>
+<img class="aligncenter" src="/wp-admin/images/wordpress-logo.png" alt="" width="274" height="63" />
+<ol>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+</ol>
+<a href="/">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a>
+<h1>Nadpis 1</h1>
+<h2>Nadpis 2</h2>
+<h3>Nadpis 3</h3>
+<h4>Nadpis 4</h4>
+<h5>Nadpis 5</h5>
+<h6>Nadpis 6</h6>
