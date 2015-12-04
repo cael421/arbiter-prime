@@ -1,0 +1,54 @@
+@media only screen and (max-device-width: 480px) {
+  div.wrapper {
+    width: 90%;
+    padding: 5px;
+    overflow: scroll;
+  }
+  header nav li a {
+    float: none;
+  }
+  div#footer td {
+    display: block;
+    width: 90%;
+  }
+  section p {
+    text-align: left;
+  }
+  .videoWrapper {
+    display: none;
+  }
+  aside {
+    display: none;
+  }
+  article,div#page {
+    margin: 0px;
+  }
+}
+@media print {
+  nav {
+    display: none;
+  }
+  div#footer {
+    display: none;
+  }
+  header {
+    display: block;
+  }
+  div.wrapper {
+    width: 100%;
+    margin: 0px auto;
+    overflow: hidden;
+  }
+  aside {
+    display: none;
+  }
+  article,div#page {
+    margin: 0px;
+  }
+  .videoWrapper {
+  	display: none;
+  }
+  .videoWrapper iframe {
+  	display: none;
+  }
+}
